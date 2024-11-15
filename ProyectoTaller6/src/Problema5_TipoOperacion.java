@@ -36,3 +36,8 @@ public class Problema5_TipoOperacion {
         }
     }
 }
+/* run:
+Dame un numero del 1 al 4: 3
+Multiplicacion
+BUILD SUCCESSFUL (total time: 3 seconds)
+*/
